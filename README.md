@@ -1,5 +1,5 @@
-# cv2021spring
-Computer Vision, Course 2021 Spring (lectures + seminars)
+# Введение в компьютерный интеллект. Современное компьютерное зрение.
+Лекции и семинары
 
 ## Содержание
 * [Новости](#news)
@@ -52,4 +52,4 @@ Computer Vision, Course 2021 Spring (lectures + seminars)
 ### Машинное обучение
 * Желательно иметь базу в виде курса по машинному обучению (например, [здесь](https://github.com/mlcoursemm/ml2020autumn) лежит соответствующий курс)
 ### Python
-* Краткое введение в язык программирования Python [здесь](https://github.com/mlcoursemm/mlcoursemm/py2020autumn)
+* Краткое введение в язык программирования Python [здесь](https://github.com/mlcoursemm/py2020autumn)
