@@ -11,6 +11,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2021-02-18) Выложена первая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture01-intro_cv.pdf), первый [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01-intro_gpu.pdf), а также [код](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01_intro_colab.ipynb) к нему
 * (2021-02-15) Создан данный репозиторий
 * Первое лекционное занятие состоится во вторник, 16 февраля, в 16:45 онлайн в Zoom (ссылка будем разослана в соотв. канале)
 * Первое семинарское занятие состоится во вторник, 16 февраля, в 18:15 онлайн в Zoom (ссылка будем разослана в соотв. канале)
