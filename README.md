@@ -11,7 +11,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
-* (2021-03-02) Выложено первое [домашнее задание по теории](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory01.pdf). Дедлайн: 23:59 21.03.2021. Решения высылать на почту mlcoursemm@gmail.com с темой [CV2021:Theory01]
+* (2021-03-02) Выложено первое [домашнее задание по теории](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory01.pdf). Дедлайн: 23:59 21.03.2021. Решения высылать на почту mlcoursemm@gmail.com с темой [CV2021:Theory01]. В теле письма указать свои ФИО, курс, факультет, группу.
 * (2021-03-02) Выложена вторая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture02-conv_layers.pdf) и второй [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar02-conv.pdf)
 * (2021-02-18) Выложена первая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture01-intro_cv.pdf), первый [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01-intro_gpu.pdf), а также [код](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01_intro_colab.ipynb) к нему
 * (2021-02-15) Создан данный репозиторий
