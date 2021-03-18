@@ -11,7 +11,9 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
-* (2021-03-09) Выложено первое [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice01.ipynb). Дедлайн: 23:59 28.03.2021. Название ноутбука с реализацией должно иметь шаблон "Prac01_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac01]. В теле письма указать свои ФИО, курс, факультет, группу.
+* (2021-03-18) Выложено второе [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice02.ipynb). Дедлайн: 23:59 04.04.2021. Название ноутбука с реализацией должно иметь шаблон "Prac02_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac01]. В теле письма указать свои ФИО, курс, факультет, группу.
+* (2021-03-18) Выложена четвёртая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture04-training.pdf) и четвёртый [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar04_backprop.pdf)
+* (2021-03-18) Выложено первое [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice01.ipynb). Дедлайн: 23:59 28.03.2021. Название ноутбука с реализацией должно иметь шаблон "Prac01_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac01]. В теле письма указать свои ФИО, курс, факультет, группу.
 * (2021-03-09) Выложена третья [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture03-non_conv_layers.pdf) и третий [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar03-non_conv_layers.pdf)
 * (2021-03-02) Выложено первое [домашнее задание по теории](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory01.pdf). Дедлайн: 23:59 21.03.2021. Решения высылать на почту mlcoursemm@gmail.com с темой [CV2021:Theory01]. В теле письма указать свои ФИО, курс, факультет, группу.
 * (2021-03-02) Выложена вторая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture02-conv_layers.pdf) и второй [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar02-conv.pdf)
@@ -40,7 +42,7 @@
 | 01            | 16.02.2021    | Вводная лекция. Задачи компьютерного зрения | Вводное занятие. ML stack | |
 | 02            | 02.03.2021    | Сверточные слои | Свертки | Теория01 |
 | 03            | 09.03.2021    | Несверточные слои | Несверточные слои | Практика01 |
-| 04            | 16.03.2021    |                        |   |  |
+| 04            | 16.03.2021    | Обучение нейронных сетей | Метод обратного распространения ошибки | Практика02 |
 | 05            | 23.03.2021    |                            |  | |
 | 06            | 30.03.2021    |                                                |  |  |
 | 07            | 06.04.2021    |                    |  |  |
