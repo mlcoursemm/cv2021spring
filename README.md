@@ -11,7 +11,7 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
-* (2021-03-18) Выложено второе [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice02.ipynb). Дедлайн: 23:59 04.04.2021. Название ноутбука с реализацией должно иметь шаблон "Prac02_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac01]. В теле письма указать свои ФИО, курс, факультет, группу.
+* (2021-03-18) Выложено второе [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice02.ipynb). Дедлайн: 23:59 04.04.2021. Название ноутбука с реализацией должно иметь шаблон "Prac02_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac02]. В теле письма указать свои ФИО, курс, факультет, группу.
 * (2021-03-18) Выложена четвёртая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture04-training.pdf) и четвёртый [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar04_backprop.pdf)
 * (2021-03-09) Выложено первое [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice01.ipynb). Дедлайн: 23:59 28.03.2021. Название ноутбука с реализацией должно иметь шаблон "Prac01_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac01]. В теле письма указать свои ФИО, курс, факультет, группу.
 * (2021-03-09) Выложена третья [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture03-non_conv_layers.pdf) и третий [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar03-non_conv_layers.pdf)
