@@ -11,6 +11,8 @@
 * [Список литературы](#lit)
 * [Полезные ссылки](#links)
 ## <a name="news" /> Новости
+* (2021-04-13) Выложена восьмая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture08-gan.pdf) и восьмой [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar08-gan.pdf), а также [код](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar08-transfer_learning.ipynb) к нему
+* (2021-04-06) Выложено второе [домашнее задание по теории](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory02.pdf). Дедлайн: 23:59 25.04.2021. Решения высылать на почту mlcoursemm@gmail.com с темой [CV2021:Theory02]. В теле письма указать свои ФИО, курс, факультет, группу.
 * (2021-03-23) Запущено [соревнование](https://www.kaggle.com/t/226b00bcd20344298549b4226ffd068a) в качестве домашнего задания Соревнование01.
 * (2021-03-23) Выложена пятая [лекция](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture05-class_nn.pdf) и пятый [семинар](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar05-cnn.pdf), а также [код](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar05-train_cnn_keras.ipynb) к нему
 * (2021-03-18) Выложено второе [домашнее задание по практике](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice02.ipynb). Дедлайн: 23:59 04.04.2021. Название ноутбука с реализацией должно иметь шаблон "Prac02_Ivanov.ipynb" и посылаться на почту mlcoursemm@gmail.com с темой [CV2021:Prac02]. В теле письма указать свои ФИО, курс, факультет, группу.
@@ -46,9 +48,9 @@
 | 03            | 09.03.2021    | Несверточные слои | Несверточные слои | Практика01 |
 | 04            | 16.03.2021    | Обучение нейронных сетей | Метод обратного распространения ошибки | Практика02 |
 | 05            | 23.03.2021    | Основные архитектуры сверточных нейросетей | Процесс обучения | Соревнование01 |
-| 06            | 30.03.2021    |                                                |  |  |
-| 07            | 06.04.2021    |                    |  |  |
-| 08            | 13.04.2021    |                                           |  | |
+| 06            | 30.03.2021    | Методы обнаружения объектов |  Подсчет метрик качества для задачи обнаружения объектов |  |
+| 07            | 06.04.2021    | Методы семантической и объектно-чувствительной сегментации |  Методы аугменации данных| Теория02  |
+| 08            | 13.04.2021    | Генеративные состязательные сети | Вывод формул для GAN. Transfer learning | |
 | 09            | 20.04.2021    |                                           |  | |
 | 10            | 27.04.2021    |                      |            | |
 
