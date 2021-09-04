@@ -53,8 +53,8 @@
 | 06            | 30.03.2021    | Методы обнаружения объектов |  Подсчет метрик качества для задачи обнаружения объектов |  |
 | 07            | 06.04.2021    | Методы семантической и объектно-чувствительной сегментации |  Методы аугменации данных| Теория02  |
 | 08            | 13.04.2021    | Генеративные состязательные сети | Вывод формул для GAN. Transfer learning | |
-| 09            | 20.04.2021    |                                           |  | |
-| 10            | 27.04.2021    |                      |            | |
+| 09            | 20.04.2021    | Методы улучшения качества изображений | Методы улучшения качества изображений | |
+| 10            | 27.04.2021    | Методы сжатия и ускорения нейронных сетей | Проблемы и вызовы современного искусственного интеллекта | |
 
 
 ## <a name="lit" /> Список литературы
@@ -84,29 +84,29 @@ Lectures and seminars
 * [Bibliography](#lit1)
 * [Useful links](#links1)
 ## <a name="news1" /> News
-* (2021-04-13) Posted eighth [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture08-gan.pdf) and eighth [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar08-gan.pdf), and also [code](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar08-transfer_learning.ipynb) for it
-* (2021-04-06) Posted second  [theory homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory02.pdf). Deadline: 23:59 04/25/2021. Send solutions to mlcoursemm@gmail.com with the subject [CV2021: Theory02]. In the body of the letter, indicate your full name, course, faculty, group.
+* (2021-04-13) Uploaded 8th [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture08-gan.pdf) and 8th [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar08-gan.pdf), and also [code](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar08-transfer_learning.ipynb) for it
+* (2021-04-06) Uploaded second  [theory homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory02.pdf). Deadline: 23:59 04/25/2021. Send solutions to mlcoursemm@gmail.com with the subject title [CV2021: Theory02]. In the body of the email, indicate your full name, course, faculty, group.
 * (2021-03-23) Started [competition](https://www.kaggle.com/t/226b00bcd20344298549b4226ffd068a) as homework Competition01.
-* (2021-03-23) Posted fifth [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture05-class_nn.pdf) and the fifth [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar05-cnn.pdf), and also [code](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar05-train_cnn_keras.ipynb) for it
-* (2021-03-18) Posted second [practice homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice02.ipynb). Deadline: 23:59 04.04.2021. The name of the implementation notebook should have the template "Prac02_Ivanov.ipynb" and be sent to mlcoursemm@gmail.com with the subject [CV2021: Prac02]. In the body of the letter, indicate your full name, course, faculty, group.
-* (2021-03-18) Posted fourth [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture04-training.pdf) and fourth [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar04_backprop.pdf)
-* (2021-03-09) Posted first [practice homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice01.ipynb). Deadline: 23:59 03/28/2021. The name of the implementation laptop should have the template "Prac01_Ivanov.ipynb" and be sent to mlcoursemm@gmail.com with the subject [CV2021: Prac01]. In the body of the letter, indicate your full name, course, faculty, group.
-* (2021-03-09) Posted third [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture03-non_conv_layers.pdf) and third [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar03-non_conv_layers.pdf)
-* (2021-03-02) Posted first [theory homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory01.pdf). Deadline: 23:59 03/21/2021. Send solutions to mlcoursemm@gmail.com with the subject [CV2021: Theory01]. In the body of the letter, indicate your full name, course, faculty, group.
-* (2021-03-02) Posted second [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture02-conv_layers.pdf) and second [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar02-conv.pdf)
-* (2021-02-18) Posted first [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture01-intro_cv.pdf), first [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01-intro_gpu.pdf), and also [code](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01_intro_colab.ipynb) for it
+* (2021-03-23) Uploaded 5th [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture05-class_nn.pdf) and the 5th [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar05-cnn.pdf), and also [code](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar05-train_cnn_keras.ipynb) for it
+* (2021-03-18) Uploaded second [practice homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice02.ipynb). Deadline: 23:59 04.04.2021. The name of the implementation notebook should have the template "Prac02_Ivanov.ipynb" and be sent to mlcoursemm@gmail.com with the subject title [CV2021: Prac02]. In the body of the email, indicate your full name, course, faculty, group.
+* (2021-03-18) Uploaded 4th [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture04-training.pdf) and 4th [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar04_backprop.pdf)
+* (2021-03-09) Uploaded first [practice homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/Practice01.ipynb). Deadline: 23:59 03/28/2021. The name of the implementation notebook should have the template "Prac01_Ivanov.ipynb" and be sent to mlcoursemm@gmail.com with the subject title [CV2021: Prac01]. In the body of the email, indicate your full name, course, faculty, group.
+* (2021-03-09) Uploaded 3rd [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture03-non_conv_layers.pdf) and 3rd [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar03-non_conv_layers.pdf)
+* (2021-03-02) Uploaded first [theory homework](https://github.com/mlcoursemm/cv2021spring/blob/main/assignments/theory01.pdf). Deadline: 23:59 03/21/2021. Send solutions to mlcoursemm@gmail.com with the subject title [CV2021: Theory01]. In the body of the email, indicate your full name, course, faculty, group.
+* (2021-03-02) Uploaded 2nd [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture02-conv_layers.pdf) and 2nd [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar02-conv.pdf)
+* (2021-02-18) Uploaded 1st [lecture](https://github.com/mlcoursemm/cv2021spring/blob/main/lectures/lecture01-intro_cv.pdf), 1st [seminar](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01-intro_gpu.pdf), and also [code](https://github.com/mlcoursemm/cv2021spring/blob/main/seminars/seminar01_intro_colab.ipynb) for it
 * (2021-02-15) This repository has been created
 * The first lecture will take place on Tuesday, February 16, at 4:45 pm online at Zoom (link will be sent to the appropriate channel)
 * The first seminar will take place on Tuesday, February 16, at 18:15 online at Zoom (link will be sent to the appropriate channel)
 * In addition to lectures, seminars will also be held, where practical issues of computer vision will be discussed. Seminars will be held immediately after the lectures.
 ## <a name="info1" /> Short info
-In the spring semester of 2021 at the Faculty of Mechanics and Mathematics of Moscow State University. MV Lomonosov Moscow State University begins reading a new special course at the student's choice, dedicated to the algorithms of modern computer vision (theory + practice). 
+In the spring semester of 2021 at the Faculty of Mechanics and Mathematics of Lomonosov Moscow State University begins reading a new special course at the student's choice, dedicated to the algorithms of modern computer vision (theory + practice). 
 
 The course will be taught on the basis of the Department of [Mathematical Theory of Intelligent Systems](http://intsys.msu.ru) under the guidance of Doctor of Physical and Mathematical Sciences, Professor [Babin D.N.](http://intsys.msu.ru/staff/babin/). 
 
-The course will be delivered by Ph.D. Petiushko A.A. and Ph.D. Ivanov I.E.
+The course will be taught by Ph.D. [Petiushko A.A.](https://petiushko.info) and Ph.D. Ivanov I.E.
 ## <a name="ww1" /> Time and place
-The course is read on Tuesdays at 16:45 (theory) and 18:15 (practice) online at Zoom.
+The lessons are to be taught on Tuesdays at 16:45 (theory) and 18:15 (practice) online at Zoom.
 ## <a name="feedback1" /> Communication with teachers
 * [Telegram-channel](https://t.me/joinchat/AAAAAEUmx5cJLOdLXsOt8g), in which all important news will appear
 * Feedback - by email mlcoursemm@gmail.com
@@ -124,8 +124,8 @@ The course is read on Tuesdays at 16:45 (theory) and 18:15 (practice) online at 
 | 06            | 30.03.2021    | Object detection methods|  Calculation of quality metrics for the object detection problem|  |
 | 07            | 06.04.2021    | Semantic and object-sensitive segmentation techniques |  Data Augmentation Methods| Theory02  |
 | 08            | 13.04.2021    | Generative adversarial networks | Derivation of formulas for GAN. Transfer learning | |
-| 09            | 20.04.2021    |                                           |  | |
-| 10            | 27.04.2021    |                      |            | |
+| 09            | 20.04.2021    | Image enhancement | Image enhancement | |
+| 10            | 27.04.2021    | Neural network compression and speedup | AI Ethics | |
 
 
 ## <a name="lit1" /> Bibliography
@@ -134,6 +134,6 @@ The course is read on Tuesdays at 16:45 (theory) and 18:15 (practice) online at 
 3. Francois Chollet. [Deep Learning with Python](http://faculty.neu.edu.cn/yury/AAI/Textbook/Deep%20Learning%20with%20Python.pdf), 1st edition, Manning, 2017.
 ## <a name="links1" /> Useful links
 ### Machine learning
-* It is desirable to have a base in the form of a machine learning course (for example, [here](https://github.com/mlcoursemm/ml2020autumn) lies the appropriate course)
+* It is desirable to have a base in the form of a machine learning course done (for example, [here](https://github.com/mlcoursemm/ml2020autumn) can be found the appropriate course)
 ### Python
 * A brief introduction to the Python programming language [here](https://github.com/mlcoursemm/py2020autumn)
